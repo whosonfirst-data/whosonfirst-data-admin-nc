@@ -41,7 +41,7 @@
         "gn:id":2137831
     },
     "wof:country":"NC",
-    "wof:geomhash":"c5d1bbbbc200695a2f23607015c70eff",
+    "wof:geomhash":"5f94242e66517e61d923740a41c24e79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     165.58333000000005,
     -21.26667
 ],
-  "geometry": {"coordinates":[165.58333000000005,-21.26667],"type":"Point"}
+  "geometry": {"coordinates":[165.58333,-21.26667],"type":"Point"}
 }

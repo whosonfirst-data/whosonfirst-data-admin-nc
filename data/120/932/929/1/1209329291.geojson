@@ -38,7 +38,7 @@
         "gn:id":2138800
     },
     "wof:country":"NC",
-    "wof:geomhash":"833a18471b26670129e91c89811682b1",
+    "wof:geomhash":"7b3ba8511c4f31642ac1d52367e26977",
     "wof:hierarchy":[
         {
             "dependency_id":85632473,
@@ -61,5 +61,5 @@
     165.0,
     -20.7
 ],
-  "geometry": {"coordinates":[165.0,-20.7],"type":"Point"}
+  "geometry": {"coordinates":[165,-20.7],"type":"Point"}
 }

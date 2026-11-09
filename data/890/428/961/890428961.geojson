@@ -318,7 +318,7 @@
     },
     "wof:country":"NC",
     "wof:created":1469051784,
-    "wof:geomhash":"132a021a2e46873034b73e8fd1609458",
+    "wof:geomhash":"44e6a1ecb8b8c66360529b10ee52e432",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -347,5 +347,5 @@
     163.66667,
     -19.73333
 ],
-  "geometry": {"coordinates":[163.66667000000001,-19.73333],"type":"Point"}
+  "geometry": {"coordinates":[163.66667,-19.73333],"type":"Point"}
 }

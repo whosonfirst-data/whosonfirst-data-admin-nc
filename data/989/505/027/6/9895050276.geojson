@@ -1,0 +1,75 @@
+{
+  "id": 9895050276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.07562,-21.46184,168.07562,-21.46184",
+    "geom:latitude":-21.46184,
+    "geom:longitude":168.07562,
+    "iso:country":"NC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12024006: name \"Kaeguahnakun\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12024006"
+        },
+        {
+            "citation":"GeoNames populated place 12024006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12024006"
+        },
+        {
+            "citation":"GeoNames populated place 12024006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12024006"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675251 (\u00celes Loyaut\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12024006
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"1c07ddd3e3fa49e15d2c1233694060d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":9895050276,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":9895050276,
+    "wof:lastmodified":1795735119,
+    "wof:name":"Kaeguahnakun",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.07562,
+    -21.46184,
+    168.07562,
+    -21.46184
+],
+  "geometry": {"coordinates":[168.07562,-21.46184],"type":"Point"}
+}
